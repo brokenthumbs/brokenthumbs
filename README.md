@@ -1,10 +1,10 @@
 ### selamat datang 👋
 
-- 😄 pronouns: he/him
-- 📫 how to reach me: [@brokenthumbs](https://twitter.com/brokenthumbs)
-- ⚡ fun fact: after 10 years, youtube finally disabled the rick roll video
-
-[![RickRoll'D](https://i.imgur.com/jJrS4tp.png)](https://www.youtube.com/watch?v=oHg5SJYRHA0 "RickRoll'D")
+🤔 | 💡
+------------ | -------------
+😄 pronouns | he/him
+📫 how to reach me | [@brokenthumbs](https://twitter.com/brokenthumbs)
+⚡ fun fact: after 10 years, <br />youtube finally disabled the rick roll video | [![RickRoll'D](https://i.imgur.com/jJrS4tp.png)](https://www.youtube.com/watch?v=oHg5SJYRHA0 "RickRoll'D")
 
 <!--
 **brokenthumbs/brokenthumbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
