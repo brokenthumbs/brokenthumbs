@@ -4,7 +4,9 @@
 ------------ | -------------
 😄 pronouns | he/him
 📫 how to reach me | [@brokenthumbs](https://twitter.com/brokenthumbs)
-⚡ fun fact: after 10 years, <br />youtube finally disabled the rick roll video | [![Rick Astley - Never Gonna Give You Up (Video)](https://i.imgur.com/jJrS4tp.png)](https://www.youtube.com/watch?v=oHg5SJYRHA0 "Rick Astley - Never Gonna Give You Up (Video)")
+⚡ now playing | [<img src="https://i.imgur.com/WPKceBI.png" width=100>](https://open.spotify.com/playlist/6x1KU3Px4WO0Dwky1o8Ysg?si=KLEPlHeNSTKtwZVCVgVhFg)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrokenthumbs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **brokenthumbs/brokenthumbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
