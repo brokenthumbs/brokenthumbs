@@ -1,8 +1,6 @@
-### selamat datang 👋
+### now playing 🎶
 
-[<img src="https://developer.spotify.com/assets/branding-guidelines/icon1@2x.png" width=193>](https://open.spotify.com/playlist/6x1KU3Px4WO0Dwky1o8Ysg?si=KLEPlHeNSTKtwZVCVgVhFg)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbrokenthumbs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[<img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_LARGE-en.jpg" width=193>](hhttps://open.spotify.com/playlist/37i9dQZF1EpwDjouLFq2Dc?si=513d40e7ff854c66)
 
 <!--
 **brokenthumbs/brokenthumbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
