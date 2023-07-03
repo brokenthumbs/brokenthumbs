@@ -1,6 +1,6 @@
 ### now playing 🎶
 
-[<img src="https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_LARGE-en.jpg" width=193>](https://open.spotify.com/playlist/37i9dQZF1EpwDjouLFq2Dc?si=513d40e7ff854c66)
+[<img src="/spotify.png">](https://open.spotify.com/playlist/37i9dQZF1EpwDjouLFq2Dc?si=513d40e7ff854c66)
 
 <!--
 **brokenthumbs/brokenthumbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
