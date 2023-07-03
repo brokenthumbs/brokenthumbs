@@ -1,6 +1,6 @@
 ### now playing 🎶
 
-[<img src="/spotify.png">](https://open.spotify.com/playlist/37i9dQZF1EpwDjouLFq2Dc?si=513d40e7ff854c66)
+[<img src="https://scannables.scdn.co/uri/plain/jpeg/000000/white/640/spotify:playlist:37i9dQZF1EpwDjouLFq2Dc">](https://open.spotify.com/playlist/37i9dQZF1EpwDjouLFq2Dc?si=513d40e7ff854c66)
 
 <!--
 **brokenthumbs/brokenthumbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
